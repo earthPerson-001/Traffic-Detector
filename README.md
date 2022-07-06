@@ -4,4 +4,4 @@
 `pip install -r requirements.txt`
 
 ## Executing the program
-`python Traffic.py`
+`python src/WelcomeScreen.py `
